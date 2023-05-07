@@ -24,3 +24,7 @@ tic_tac_toe-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Ignore thrash from not really great OS
+.DS_Store
+
